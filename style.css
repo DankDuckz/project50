@@ -1,0 +1,18 @@
+.Menu {
+    display:flex;
+    justify-content:space-between
+}
+
+.Grid {
+    display:flex;
+    flex-wrap:wrap
+}
+
+.Origami{
+    border:solid;
+    border-radius:5px;
+    padding:30px;
+    font-family:fantasy
+}
+
+
